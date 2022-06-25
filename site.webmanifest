@@ -1,0 +1,37 @@
+{
+  "name": "FRASES DE UM CRISTÃO",
+  "short_name": "Frases de um Cristão",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "O melhor site de frases, mensagens e citações cristãs!",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguMWtDv93AZtT4_pvT2MGRrZStqjMgkqDUApHnlCLr_vuE3RwVxIPET4Bm9uC3jIi_c0vOqCdJwhRv-BfLr50oaLH2I1OmSKnIaeV5SGPThN1-NldQGphi61WXiDnv9scx5UnBMriPd7YpQIx-jOKN-btZWNAWnXTqOldUVEZQGcw-dbHR_izPn86Z/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO-ONHeb7cT7YvdGJfvF_xWNQg7GkwxjYXs3R42Ll2JAECNASvOFLFPxrupqQPC7SUvw22-qD4mcWWI2Wj6Oq8AMVkvmT-2p1ndZwHF4I5Vc0fZlTHUj9dfRr3yBc9pOS1OxsFzWfd0EQgY60G2Hfu7K80jE4JBXb_6cy4lQsQpc7pZ70DHypsmB-g/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjboeBF4cnWGd3m0ncye1C0Pha5c_kdlrswUgtc94qFessMSHtvzD1xBqN0xiBitkOPU157jmDz0O9_7R2lfVNPHq6MMdXlOlYBSjWeago95usRF6cSZf5hoVE6qvyYPIsj_L0A6FOOwlbc-crIX_YT7-ulVdeSeDlTuisykXzU1DPtKRz90XQAEC6R/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxtmifZ8vKFj42FInfFIsRJ6v4QxDumQAZgLxaSsWs2lMIw0-RGpYmS83-G7NcuNZjdFD3a59ZhrxXsefTWM65LCnyvgaxC2CF2WL1-eRoCDP6TrI9xqI4zKjlaOU3CfVnHxfiTIrVef75cfXcvnMeE8J8-YIh00ME_plZhu7gjXk6jwCIpRgtsfy6/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhARc9HNilxhZwtpEYMQFtx35OCJyKQ9UOBeeghVvs8cEPA0Ky5jpP6qjvvnbJD8QhnxSq4KEXwe-Se_PBcT-xIplxZ0GgduXbzE6VXNnZVW471tWInQaiqvzO1UrOF7nl_yp6l-Z6ybOpM_pTrFtWX9zhVtDqOts5QhqV_-7wADDcgkQQczoGxloOh/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5HJKjueNcYgrFQS1mgKiTUX_gKz3MCCbM4e9miiez_vKfBDh6eP2-IPpKngVn2M8Cth5NRH2zREXzaKVxc8xebXA5vLuLymOwz5P5_a7zgMlpy09OBQJgCe_hRyvL6gLNdN32-0qVqrB6ana1WS74ESEn9deuFWtOw_9TLDpCWM4SNsz2kSaH9XUP/s1600/ms-icon-310x310.png",
+    "sizes": "310x310",
+    "type": "image/png"
+  } {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCPcE4GS9uhnJ8bEAi2rhj8DdnT9Z4YoLzKvJr9-WxcV74HbYub2Ls1AD8qIKHpjjMdPjIslwI3u8KAoen_ZMcwQBY4_4hC3zCFw6RMmpp9aqo74xecUM9MXYpJKH5EX8SOXL_a92Jo-a95dzY9xILdpHc7OitUSRG1D2sPMt8ZP2pHZbMkUWA1cl_/s1600/logo%20favion%20500x500.png",
+    "sizes": "500x500",
+    "type": "image/png",
+}],
+}
